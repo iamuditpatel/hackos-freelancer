@@ -28,7 +28,7 @@ The project is structured to promote reusability and ease of maintenance. Each m
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/freelancer-website-template.git
+   git clone https://github.com/iamuditpatel/hackos-freelancer.git
    ```
 
 2. **Navigate to the project folder:**
@@ -41,7 +41,7 @@ The project is structured to promote reusability and ease of maintenance. Each m
    - Start your server and navigate to `localhost/freelancer-website-template`.
 
 4. **Access the Website:**
-   Open the browser and go to `http://localhost/freelancer-website-template`.
+   Open the browser and go to `http://localhost/hackos-freelancer`.
 
 ## Code Explanation
 
