@@ -1,3 +1,6 @@
+Here's a README.md file for this PHP-based project on GitHub.
+
+---
 # Freelancer Website Template
 
 A simple PHP-based modular website template, designed for freelancers. This template utilizes PHP for component-based page rendering and organizes assets and partials for efficient inclusion across the site.
